@@ -1,0 +1,17 @@
+E:\quinto\Backend\WorkSpace\inventario\src\main\java\com\universidad\controller\InventarioController.java
+E:\quinto\Backend\WorkSpace\inventario\src\main\java\com\universidad\controller\ProductoController.java
+E:\quinto\Backend\WorkSpace\inventario\src\main\java\com\universidad\dto\InventarioDTO.java
+E:\quinto\Backend\WorkSpace\inventario\src\main\java\com\universidad\dto\ProductoDTO.java
+E:\quinto\Backend\WorkSpace\inventario\src\main\java\com\universidad\dto\ReporteDTO.java
+E:\quinto\Backend\WorkSpace\inventario\src\main\java\com\universidad\dto\SucursalDTO.java
+E:\quinto\Backend\WorkSpace\inventario\src\main\java\com\universidad\dto\UsuarioDTO.java
+E:\quinto\Backend\WorkSpace\inventario\src\main\java\com\universidad\InventarioApplication.java
+E:\quinto\Backend\WorkSpace\inventario\src\main\java\com\universidad\model\Inventario.java
+E:\quinto\Backend\WorkSpace\inventario\src\main\java\com\universidad\model\Producto.java
+E:\quinto\Backend\WorkSpace\inventario\src\main\java\com\universidad\model\Reporte.java
+E:\quinto\Backend\WorkSpace\inventario\src\main\java\com\universidad\model\Sucursal.java
+E:\quinto\Backend\WorkSpace\inventario\src\main\java\com\universidad\model\Usuario.java
+E:\quinto\Backend\WorkSpace\inventario\src\main\java\com\universidad\repository\InventarioRepository.java
+E:\quinto\Backend\WorkSpace\inventario\src\main\java\com\universidad\repository\ProductoRepository.java
+E:\quinto\Backend\WorkSpace\inventario\src\main\java\com\universidad\service\InventarioService.java
+E:\quinto\Backend\WorkSpace\inventario\src\main\java\com\universidad\service\ProductoService.java
